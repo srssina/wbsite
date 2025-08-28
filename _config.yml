@@ -1,3 +1,10 @@
+include:
+  - _pages
+
+
+# Theme
 remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "air"
+
 plugins:
   - jekyll-include-cache

@@ -1,0 +1,7 @@
+main:  
+
+  - title: "Projects & insights"
+    url: /projects/
+  - title: "CV"
+    url: /assets/files/Sina_Rahimian_CV.pdf
+    external : true
